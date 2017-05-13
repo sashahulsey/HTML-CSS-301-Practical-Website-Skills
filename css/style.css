@@ -12,7 +12,7 @@ a {
 	color: blue;
 }
 a:hover {
-	color: darkblue;
+	color: yellow;
 	text-decoration: none;
 }
 a:active {
@@ -116,7 +116,7 @@ header {
 
 /* Section: Banner + Feature */
 .banner {
-	background: url("../images/banner.jpg") no-repeat scroll top center / cover;
+	background: url("../images/skyline.jpg") no-repeat scroll top center / cover;
 	min-height: 250px;
 	clear: both;
 }
